@@ -4,6 +4,12 @@ tags:
   - HSR
   - "#SpeedAV"
   - SpeedAV
+<<<<<<< HEAD
+=======
+  - Harmony
+  - Support
+  - Quantum
+>>>>>>> 2fc9803 (MERGE #183 (#184))
 aliases:
   - Speed
   - Breakpoint
