@@ -6,13 +6,6 @@ cssclasses:
   - center-images
   - no-embed-border
   - cards
-<<<<<<< HEAD
-=======
-tags:
-  - Harmony
-  - Support
-  - Quantum
->>>>>>> 2fc9803 (MERGE #183 (#184))
 ---
 Welcome to the Village’s HSR Guides. Here you can access a catalogue of essential HSR information. Such as guides, build information, unit analysis’ and more. 
 
@@ -31,11 +24,8 @@ Welcome to the Village’s HSR Guides. Here you can access a catalogue of essent
 ## **Supports:**
 | Unit                                                         | Last Updated      | Element  | Path    | Picture                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------ | ----------------- | -------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-<<<<<<< HEAD
 | [[./01. Unit Guides/Harmony/Sparkle\|Sparkle]]   | November 13, 2024 | Quantum  | Harmony | ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhsr.honeyhunterworld.com%2Fimg%2Fcharacter%2Fsparkle-character_cut_in_icon.webp&f=1&nofb=1&ipt=af3b90410d3242b9a0cf6b5293914e059c1a570cf66aca98677f1b757f854942&ipo=images)                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | [[./01. Unit Guides/Harmony/Ruan Mei\|Ruan Mei]] | January 16, 2024  | Ice      | Harmony | ![](https://static.mana.wiki/starrail/1303-avatarcutinfigures-1.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-=======
->>>>>>> 2fc9803 (MERGE #183 (#184))
 | [[./01. Unit Guides/Harmony/Robin\|Robin]]       | November 01, 2024 | Physical | Harmony | ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1479143e-5bf4-48e2-91a6-d85476d8288a/dhf22gr-db6ac5a8-9c4b-48b4-aff6-10cf471a0bc4.png/v1/fit/w_500,h_500/_render_fix__robin_by_akejiz_dhf22gr-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTAwIiwicGF0aCI6IlwvZlwvMTQ3OTE0M2UtNWJmNC00OGUyLTkxYTYtZDg1NDc2ZDgyODhhXC9kaGYyMmdyLWRiNmFjNWE4LTljNGItNDhiNC1hZmY2LTEwY2Y0NzFhMGJjNC5wbmciLCJ3aWR0aCI6Ijw9NTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.FeRsjp5ym3mA5ZjwjbGPxFg_71LM5K_IpA878kcZrkw) |
 
 
