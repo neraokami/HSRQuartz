@@ -4,9 +4,6 @@ tags:
   - HSR
   - "#SpeedAV"
   - SpeedAV
-  - Harmony
-  - Support
-  - Quantum
 aliases:
   - Speed
   - Breakpoint

@@ -15,7 +15,7 @@ share: "true"
 Element: Ice
 Links: "false"
 Last_Updated: 2024-01-16
-splash_art: https://static.wikia.nocookie.net/houkai-star-rail/images/d/d5/Character_Ruan_Mei_Splash_Art.png/
+splash_art: https://static.mana.wiki/starrail/1303-avatarcutinfigures-1.png
 ---
 ## 1. Short Overview: 
 >[!context] Ruan Mei: 
