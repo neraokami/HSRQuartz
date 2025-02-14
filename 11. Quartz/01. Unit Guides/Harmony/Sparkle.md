@@ -29,14 +29,14 @@ Sparkle is a Harmony Path character that is able to advance forward another ally
 
 One of the key points to note is her Ultimate, as it's able to make Sparkle effectively be skill point-positive over 3 turns with its somewhat cheap cost, even when constantly using your skill. 
 
->[!tip] Kit TLDR: 
+>[!context] Kit TL;DR: 
 >- **Skill:** Increases Crit. DMG of an ally by 24% of Sparkle's Crit. DMG + a flat 45% for 1 turn. Advances forward the target ally by 50%.
 >- **Talent:** Maximum Skill Points increases by 2, from 5 to 7, and whenever an ally consumes a Skill Point they get a 6% DMG Bonus buff, stacking up to 3 times.
 >- **Ultimate:** Recovers 4 Skill Points and provides allies with 'Cipher'. Cipher increases the DMG Bonus of Sparkles Talent by 10% for each stack, for a total of 48% DMG Bonus.
 >- **Technique:**
 > 	In the Over-world, allies gain ‘Misdirect’ for 20 seconds and cannot be spotted by enemies
 > 	At the start of battle, 3 Skill Points are recovered. 
->- **Ascension-locked Ability Traces:** 
+>- **Ascension-locked Bonus Abilities:** 
 >	A2: Basic Attack regenerates 10 additional energy, the same amount of energy as the skill. 
 >	A4: Skill's Crit. DMG buff now lasts until the start of the ally's second turn.
 >	A6: 15% ATK for all allies. For every 1/2/3 quantum type allies on the team including Sparkle, Quantum-Type allies' ATK increases by an additional 5%/15%/30%
@@ -84,16 +84,17 @@ Sparkle's Action Forward is only 50%, which doesn't allow her to be used like Br
 >She can also be used with Blade, Dr. Ratio and Feixiao, but isn't advised to unless you don't have the other better supports that these units can use or they aren't available as they are currently being used on the other team.
 
 ### Team Compositions 
-We will be giving you some examples of good and at least somewhat comfortable teams that you can use with Sparkle. For more details on how to play the teams, please check out the Damage Dealer's guide.
+We will be giving you some examples of good and at least somewhat comfortable teams that you can use with Sparkle.
+For more details on how to play the teams, please check out the Damage Dealer's guide.
 
-| Dan Heng • IL<br>![[../../Media/Dan Heng • Imbibitor Lunae.png\|100]] | Pela<br> ![[../../Media/Pela.png\|100]] | Sparkle<br>![[../../Media/Sparkle.png\|100]] | Gallagher<br>![[../../Media/Gallagher.png\|100]] |
-| --------------------------------------------------------- | --------------------------- | -------------------------------- | ------------------------------------ |
+| Dan Heng • IL<br>![[../../Media/Dan Heng • Imbibitor Lunae.png\|120]] | Pela / Robin<br> ![[../../Media/Pela.png\|100]]<br>![[Robin.png\|100]]<br><br> | Sparkle<br>![[../../Media/Sparkle.png\|100]] | Sustain<br><br>![[Huohuo.png\|100]]<br>![[../../Media/Gallagher.png\|100]] |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------- | -------------------------------------------------------------------------- |
 
-| Yunli<br>![[../../Media/Yunli.png\|100]] | Tingyun<br>![[../../Media/Tingyun.png\|100]] | Sparkle<br>![[../../Media/Sparkle.png\|100]] | Huohuo<br>![[../../Media/Huohuo.png\|100]] |
-| ---------------------------- | -------------------------------- | -------------------------------- | ------------------------------ |
+| Yunli<br>![[../../Media/Yunli.png\|120]] | Robin/Tingyun<br>![[../../Media/Tingyun.png\|100]]<br>![[Robin.png\|100]] | Sparkle<br>![[../../Media/Sparkle.png\|100]] | Sustain<br>![[../../Media/Huohuo.png\|100]] |
+| ---------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
-| Seele / Jade<br>![[../../Media/Seele.png\|75x135]]![[../../Media/Jade.png\|75x135]] | Robin<br>![[../../Media/Robin.png\|100]] | Sparkle<br>![[../../Media/Sparkle.png\|100]] | Gallagher / Fu Xuan<br>![[../../Media/Gallagher.png\|75x135]]![[../../Media/Fu Xuan.png\|75x135]] |
-| ----------------------------------------------------------- | ---------------------------- | -------------------------------- | ------------------------------------------------------------------------- |
+| Seele / Jade<br>![[../../Media/Seele.png\|120]]<br>![[../../Media/Jade.png\|120]] | Robin<br>![[../../Media/Robin.png\|100]] | Sparkle<br>![[../../Media/Sparkle.png\|100]] | Sustain<br>![[../../Media/Gallagher.png\|100]]<br>![[../../Media/Fu Xuan.png\|100]] |
+| --------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------- |
 
 ## 5. Trace Levelling Priority 
 #### Skill>Ultimate>Talent
@@ -149,30 +150,38 @@ If you're using a Quantum Element Damage Dealer, it is likely better for you to 
  Permanent DMG Bonus buff, making it active for all damage types that the wearer can deal. Be it their Skill, Ultimate, Follow-up Attack, DoT or even their Summon.
  
 ## 7. Relic Main and Subsidiary Stats
-#### Main Stats:
+### Main Stats
 **Boots**: SPD
-**Body:** Crit. DMG
-**Sphere**: HP / DEF
+
+**Body:** Crit. DMG%
+
+**Sphere**: HP% / DEF%
+
 **Link Rope**: Energy Regeneration Rate% 
-#### Subsidiary Stats Priority
+### Subsidiary Stats Priority
 1. **SPD** Until you hit your desired break point.
 2. **Crit. DMG%** As much as possible.
 3. **HP%/DEF%** 
 4. **Effect Resistance%**
 ## 8. Relic and Planar Ornament Sets
-#### **Relic Sets**  
-##### **Eagle of Twilight Line** 
-(4-Piece Set Effect ONLY)
-*When using the Ultimate, wearer's Action is Forwarded by 24%.* 
-This is extremely useful for hitting speed break points, but is otherwise still a nice addition as it will allow Sparkle to have more turns, which translates into more damage dealer turns and more damage.
-##### **Sacerdos’ Relived Ordeal (4 Piece):** 
-This set is useful in amplifying your damage dealer's damage a good amount and helping your Sparkle achieve speed break points easier. Sparkle can stack up the set's effect, by not letting the damage dealer take a turn out-side of those given by Sparkle and due to its turn duration resetting with every activation.
-	- *Increases Speed by 6%*
-	- *When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by **18%**, lasting for **2** turns. This effect can stack up to **2** times.*
+### **Relic Sets**
+##### **Eagle of Twilight Line**
+>[!context] Relic 4-Pc Set Effect
+>*When using the Ultimate, wearer's Action is Forwarded by 24%.*
 
-**TL;DR** Eagle is best when trying to achieve specific speed tuning breakpoints, 3 Turns in 0 cycle (effective 200) for example, while Sacerdos is the best general purpose set increasing Sparkle's damage amplification.
+This is extremely useful for hitting speed break points, but is otherwise still a nice addition as it will allow Sparkle to have more turns, which translates into more damage dealer turns and more damage.
+##### **Sacerdos’ Relived Ordeal**
+>[!context] Relic Set Effects
+>**2-Pc Set Effect:** *Increases SPD by 6%.*
+>**4-Pc Set Effect:** *When using Skill or Ultimate on one ally target, increases the ability target's CRIT DMG by **18%**, lasting for **2** turns. This effect can stack up to **2** times.*
+
+This set is useful in amplifying your damage dealer's damage a good amount and helping your Sparkle achieve speed break points easier. Sparkle can stack up the set's effect, by not letting the damage dealer take a turn out-side of those given by Sparkle and due to its turn duration resetting with every activation.
+
+
+>[!tips] **TL;DR**
+>Eagle is best when trying to achieve specific speed tuning breakpoints, 3 Turns in 0 cycle (effectively 200 SPD) for example, while Sacerdos is the best general purpose set increasing Sparkle's damage amplification.
 ***
-#### **Planar Ornament Sets**
+### **Planar Ornament Sets**
 The difference in buffing capability isn't that big and Sparkle doesn't care for extra ERR, so just use the set that you happened to get the best stats on while grinding for other sets like Bananamusement or Rutilant Arena.
 
 ##### 1. **Lushaka, the Sunken Seas**
