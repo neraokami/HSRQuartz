@@ -14,7 +14,7 @@ Credit: Lucian, Syzygy, Zainothy
 share: "true"
 Element: Ice
 Links: "false"
-Last_Updated: 2024-01-16
+Last_Updated: 2025-02-15
 splash_art: https://static.mana.wiki/starrail/1303-avatarcutinfigures-1.png
 ---
 ## 1. Short Overview: 
