@@ -18,7 +18,7 @@ cssclasses:
   - center-images
 share: "true"
 Links: "false"
-Last_Updated: 2024-11-06
+Last_Updated: 2025-02-15
 ---
 >[!context] **This guide is separated into 2 sections.**
 >The 1st Section contains explanations a short explanation on characters' Base Stats and explanations on common terms which are good to know, even if you don't plan on doing things like clearing Memory of Chaos in the 1st cycle (0c).
@@ -90,7 +90,6 @@ List of abilities that make allies immediately take action:
 ### Extra Turn
 Extra Turns means turns that are taken outside of a unit’s normal turn order, that don’t tick down buffs and debuffs' turn duration.
 - Seele’s Talent ”Resurgence”, Firefly’s Eidolon 2, Qingque’s skill, Blade’s Skill and Boothill’s skill all count as an extra turn.
-
 - All Ultimate abilities are considered extra turns.
 - *Extra turns have a lower priority than Follow-up Actions of any kind.*
 - If multiple Extra Turns and Ultimate Abilities are queued, they will be performed in the order they are triggered, with the exception of Blade’s, Qingque’s and Boothill’s skills that are pushed back by Ultimates.

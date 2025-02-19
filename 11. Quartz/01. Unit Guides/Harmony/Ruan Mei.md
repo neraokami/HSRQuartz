@@ -26,7 +26,7 @@ Ruan Mei is a Harmony Path character that is able to provide consistent buffs to
 
 These aspects of her kit make her integral to the break archetype as a whole, and a very strong support for traditional DPS comps too. 
 
->[!context] Kit TL;DR: 
+>[!context] Character Kit: 
 >- **Basic ATK:** Deals 10 toughness damage.
 >  
 >- **Skill:** Gains 'Overtone' for 3 turns and duration counts down at the start of each turn. While Ruan Mei has 'Overtone', all allies gain **32% DMG Bonus** and **50% Weakness Break Efficiency**.
